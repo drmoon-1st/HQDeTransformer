@@ -12,11 +12,11 @@ Kyeong-Hwan Moon<sup>1,†</sup>, Seon-Geun Jeong<sup>2,†</sup>, and Won-Joo H
 ## Results
 
 <p align="center">
-  <img src="./imgs/table1.png" alt="Table 1" width="60%">
+  <img src="./imgs/table1.png" alt="Table 1" width="30%">
 </p>
 
 <p align="center">
-  <img src="./imgs/table2.png" alt="Table 2" width="60%">
+  <img src="./imgs/table2.png" alt="Table 2" width="30%">
 </p>
 
 ## Datasets
