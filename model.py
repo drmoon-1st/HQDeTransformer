@@ -12,6 +12,7 @@ from torch.nn.modules.transformer import _get_activation_fn
 """
 Thanks to an awesome PyTorch transformer implementation.
 Our model is built on the public PyTorch Transformer code.
+If you have any questions, feel free to contact me!
 """
 
 def u_su4(weights_0, weights_1, weights_2, weights_3, weights_4, weights_5, weights_6, wires):
